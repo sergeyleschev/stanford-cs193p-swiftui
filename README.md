@@ -8,3 +8,6 @@
 
 # stanford-cs193p-swiftui
 Stanford CS193p 🏫 SwiftUI, Xcode 12, iOS 14. (c) S. Leschev.
+
+Additional:
+Stanford CS193p 🏫 [Swift 5, UIKit, Xcode 11, iOS 12](https://github.com/sergeyleschev/stanford-cs193p). (c) S. Leschev.
